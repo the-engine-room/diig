@@ -13,7 +13,7 @@ before_install:
 - chmod 600 deploy-diig-key
 - mv deploy-diig-key ~/.ssh/id_rsa
 - rm deploy-diig-key.enc
-- echo -e "Host 45.55.35.212" >> ~/.ssh/config
+- echo -e "Host 104.236.101.175:" >> ~/.ssh/config
 - echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
 - cat ~/.ssh/id_rsa
 - cat ~/.ssh/known_hosts
