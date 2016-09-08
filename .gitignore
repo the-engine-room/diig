@@ -1,0 +1,9 @@
+node_modules
+.tmp
+dist
+.sass-cache
+bower_components
+_bck_json/
+*.sublime-*
+.DS_Store
+scss-lint-report.xml
