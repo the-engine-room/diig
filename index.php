@@ -20,8 +20,8 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Transparent Oil Namibia</title>
-    <meta name="description" content="The Transparent Oil Namibia platform maps the details, trends and connections in the allocation of Petroleum Exploration Licences in Namibia.">
+    <title>Data and Info for Improved Governance</title>
+    <meta name="description" content="diig.io - Data and Info for Improved Governance">
 
     <script>
         (function () {
@@ -60,10 +60,10 @@
         }());
     </script>
 
-    <meta property="og:site_name" content="Transparent Oil Namibia" />
-    <meta property="og:title" content="Transparent Oil Namibia" />
+    <meta property="og:site_name" content="diig.io - Data and Info for Improved Governance" />
+    <meta property="og:title" content="diig.io - Data and Info for Improved Governance" />
 
-    <meta property="og:description" content="The Transparent Oil Namibia platform maps the details, trends and connections in the allocation of Petroleum Exploration Licences in Namibia." />
+    <meta property="og:description" content="Tdiig.io - Data and Info for Improved Governance" />
     <meta property="og:url" content="<?php echo $URL ?>" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="/favicons/ogMain.png" />
@@ -105,12 +105,12 @@
                         <a href="/">
                             <span class="Header-title--secondary">diig.io</span>
                             <span class="Header-title--primary">Data and info</span>
-                            <span class="Header-title--tertiary">for industry governance</span>
+                            <span class="Header-title--tertiary">for improved governance</span>
                         </a>
                     </h1>
                 </div>
                 <div class="col s12 m6 offset-m3">
-                    <p class="light Header-description">Liberal; grantees urban; public sector disruptor pursue these aspirations respond fighting poverty. Social analysis, non-partisan, reproductive rights, meaningful work insurmountable challenges Global South criteria. Sanitation improving quality inclusive sustainable future catalytic effect. Emergent revitalize economic independence Aga Khan forward-thinking. Fluctuation pathway to a better life, strengthen democracy thinkers who make change happen expanding community ownership tackling beneficiaries natural resources enable. </p>
+                    <p class="light Header-description"> The Engine Room and the Institute for Public Policy Research in Namibia worked in partnership to build a data model and searchable platform of petroleum exploration licenses in Namibia to power investigation and advocacy. In August of 2016, The Engine Room organized a “replication sprint” to document and clean the technical components of this project so they could be put to use for two other contexts. Working with Citizens for Justice and Oxfam in Malawi and the Zimbabwe Environmental Law Association in Zimbabwe, and learning from the lessons of the IPPR project, we have built two new platforms that allow for the exploration of licenses and companies in the mining sector in Malawi and Zimbabwe. We hope to continue providing support to other extractives transparency organisations looking to collect, clean, organise and analyse data to advocate for more just resource governance. We also hope to use replication sprint methods to make technology and data tools more accessible to frontline organisations. Get in touch with us if you want to learn more about our Matchbox Program, or other types of direct support we offer. </p>
                 </div>
             </div>
 
