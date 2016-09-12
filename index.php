@@ -94,9 +94,9 @@
     <!-- endbuild -->
 
 </head>
-<body<?php if($match[name] == 'homepage'){ echo ' class="App"'; } ?>>
+<body<?php if($match['name'] == 'homepage'){ echo ' class="App"'; } ?>>
 
-    <header class="Header center-align<?php if($match[name] == 'about'){ ?> Header--plain<?php } ?>">
+    <header class="Header center-align<?php if($match['name'] == 'about'){ ?> Header--plain<?php } ?>">
         <div class="Header-inner">
 
             <div class="row">

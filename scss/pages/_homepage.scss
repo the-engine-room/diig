@@ -19,7 +19,7 @@
         color: #fff;
 
         .Header-title--primary {
-            @include fluid-type(font-size, 320px, 1200px, 30px, 48px);
+            @include fluid-type(font-size, 320px, 1200px, 24px, 48px);
         }
 
         &:after {
@@ -98,5 +98,12 @@ $blocks: (
 }
 
 p.light a {
-  color: #E7B51F;
+  background: white;
+  padding: 0px 3px; 
+  color: rgb(29, 121, 180);
+  &:hover {
+    background: none; 
+    text-decoration: underline;
+    color: white;
+  }
 }
