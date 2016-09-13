@@ -7,7 +7,7 @@
                     <span class="Header-title--primary">Transparent Oil</span>
                 </p>
                 <p class="HomepageBlock-desc">
-                  Explore the most complete data set of petroleum exploration licenses in Namibia and information about management structures for the companies behind these licenses. You can search by location, company name, and license information.
+                  Find out which companies are involved in exploring Namibia’s petroleum resources. Transparent Oil helps you identify what type of licences have been issued in Namibia, which companies are behind these licences, who owns and manages them, where they are registered, and how their ownership has changed over time. You can browse the data by company name and by petroleum licence.
                   <br />  &nbsp;
                 </p>
             </div>
@@ -25,8 +25,7 @@
                     <span class="Header-title--primary">Migodi Yathu</span>
                 </p>
                 <p class="HomepageBlock-desc">
-                    Explore the most complete set of data on minerals in Malawi and information about companies involved in exploring and extracting the country’s minerals.
-                    <br />You can search by company, mineral and oil licences.
+                    Find out which companies are involved in exploring and extracting Malawi’s resources. Migodi Yathu helps you identify what type of licences have been issued in Malawi, what types of minerals have been sought, which companies are behind the licences, who manages them, and where they are registered. You can browse the data by companies, mineral and oil licences.
                     <br />  &nbsp;
                     <br />  &nbsp;
                 </p>
@@ -45,7 +44,7 @@
                     <span class="Header-title--primary">Mining Pachena</span>
                 </p>
                 <p class="HomepageBlock-desc">
-                    Explore the most complete set of data on mining in Zimbabwe, information about company hierarchies and management structures of mining companies, community monitoring reports on mining impacts and mineral revenue payments to the Zimbabwe government. You can search by company, mine and mineral types.
+                    Find out which companies are involved in the mining sector in Zimbabwe. Mining Pachena Zimbabwe helps you explore relationships between mining companies and their parent companies, identify who manages these companies, and find out more about community monitoring reports and mineral revenue payments to the Zimbabwe government. You can browse the data by companies, mines and mineral types. ZELA is still adding data to this first stage of the platform.
                 </p>
             </div>
             <div class="HomepageBlock-logo">
