@@ -19,7 +19,10 @@
         color: #fff;
 
         .Header-title--primary {
-            @include fluid-type(font-size, 320px, 1200px, 24px, 48px);
+            @include fluid-type(font-size, 320px, 1250px, 24px, 30px);
+            @media #{$medium-only} {
+                font-size: 28px; 
+            }
         }
 
         &:after {
