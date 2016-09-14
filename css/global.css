@@ -11862,14 +11862,14 @@ table th, table td {
 }
 
 p.light a, footer.page-footer p.footer-copyright a {
-  background: white;
-  padding: 0px 3px;
-  color: #1d79b4;
-}
-
-p.light a:hover, footer.page-footer p.footer-copyright a:hover {
   background: none;
   text-decoration: underline;
   color: white;
+}
+
+p.light a:hover, footer.page-footer p.footer-copyright a:hover {
+  background: white;
+  padding: 0px 3px;
+  color: #1d79b4;
 }
 /*# sourceMappingURL=global.css.map */
