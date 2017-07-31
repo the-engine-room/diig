@@ -29,15 +29,7 @@ This will compile everything for production in the `dist` folder.
 
 ### Deploying / Publishing - TODO
 
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```shell
-packagemanager deploy awesome-project -s server.com -u username -p password
-```
-
-And again you'd need to tell what the previous code actually does.
-
+This repo is compiled and deployed to the host upon push.
 
 ## Licensing
 
