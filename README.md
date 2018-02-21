@@ -38,11 +38,3 @@ packagemanager deploy awesome-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-
-## Licensing
-
-One really important part: Give your project a proper license. Here you should
-state what the license is and how to find the text version of the license.
-Something like:
-
-"The code in this project is licensed under MIT license."
